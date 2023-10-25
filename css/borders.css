@@ -13,12 +13,12 @@ header nav, header nav h2{
 
 body{
 	text-align: center;
+	clear: both;
 }
 
 main{
-	display: inline-block;
-	text-align: center;
-	/*clear: both;*/
+	display: block;
+	text-align: left;
 	/*float: left;*/
 }
 
@@ -52,6 +52,7 @@ footer{
 	text-align: center;
 	margin: 20px;
 	border-top: 2px solid black;
+	clear: both;
 }
 
 #after-body{
