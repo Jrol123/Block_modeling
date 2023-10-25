@@ -1,0 +1,59 @@
+header{
+	display: block;
+	text-align: center;
+	margin: 20px;
+	border: 1px solid black;
+}
+
+header nav, header nav h2{
+	display: flex;
+	justify-content: space-around;
+	background: aqua;
+}
+
+body{
+	text-align: center;
+}
+
+main{
+	display: inline-block;
+	text-align: center;
+	/*clear: both;*/
+	/*float: left;*/
+}
+
+section{
+	width: 660px;
+	float: left;
+	margin: 20px;
+	/*660 + 20 * 2*/
+}
+
+footer{
+	display: block;
+}
+
+aside{
+	display: block;
+	float: left;
+	width: 660px;
+	margin: 15px 0;
+	padding: 20px;
+	/*660 + 20 * 2*/
+	background: darkcyan;
+}
+
+aside h3{
+	background: inherit;
+}
+
+footer{
+	display: block;
+	text-align: center;
+	margin: 20px;
+	border-top: 2px solid black;
+}
+
+#after-body{
+	width: calc(980px / 2);
+}
