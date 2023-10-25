@@ -1,0 +1,94 @@
+*{
+	/*margin: 20px;*/
+	background:lightblue;
+}
+
+.exp1{
+	text-align: center;
+	border: 40px solid black;
+	padding: 30px;
+	width: 330px;
+	margin: 0px;
+}
+
+.exp2{
+	text-align: center;
+	border: 40px solid black;
+	width: 330px;
+	margin: 0px;
+}
+
+.exp3{
+	text-align: center;
+	border: 40px solid black;
+	padding: 30px;
+	width: 330px;
+	margin: 0px;
+	box-sizing: content-box;
+}
+
+.exp4{
+	text-align: center;
+	border: 40px solid black;
+	padding: 30px;
+	width: 330px;
+	margin: 0px;
+	-webkit-box-sizing: content-box;
+}
+
+.exp5{
+	text-align: center;
+	border: 40px solid black;
+	width: 330px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+.exp6{
+	text-align: center;
+	border: 40px solid black;
+	width: 330px;
+	margin: 0px;
+	-webkit-box-sizing: border-box
+}
+
+.exp7-1{
+	text-align: center;
+}
+
+.exp7{
+	/*display: block;*/
+	/*text-align: center;*/
+	border: 40px solid black;
+	padding: 30px;
+	width: 330px;
+	margin: 0px;
+	box-sizing: content-box;
+}
+
+.exp8{
+	/*border: 10px solid black;*/
+	/*box-sizing: border-box;*/
+	font-size: 20px;
+}
+
+#exp8-1{
+	border: 2px solid black;
+	padding: 10px;
+	background: grey;
+}
+
+#exp8-2{
+	padding: 10px;
+	margin: 20px;
+	background: grey;
+	border: 2px solid black;
+}
+
+#exp8-3
+{
+	display: inline-block;
+	border: 2px solid black;
+	padding: 10px;
+	background: grey;
+}
